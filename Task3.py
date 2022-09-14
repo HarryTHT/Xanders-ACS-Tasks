@@ -13,7 +13,5 @@ for a in range(10000000): #how may times it would repeat,
 #out of the for loop
 print("you chose option ", number)
 
-print("test")
-
 
 
